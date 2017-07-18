@@ -20,8 +20,21 @@ def dash():
         sleep(0.1)
 
 def flash():
-	dot()
 	dash()
+	dash()
+	dot()
+        dash()
+        dash()
+        dash()
+        dash()
+        dash()
+        dash()
+        dash()
+        dash()
+        dash()
+	dot()
+        dash()
+        dash()
 
 	
 button.when_pressed = flash
